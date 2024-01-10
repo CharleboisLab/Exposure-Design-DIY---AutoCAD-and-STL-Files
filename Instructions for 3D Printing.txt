@@ -1,0 +1,3 @@
+Use the PrusaSlicer app to open the STL formatted files and generate the gcode files for 3D printing.
+
+You can download the PrusaSlicer from the following link - https://www.prusa3d.com/page/prusaslicer_424/
